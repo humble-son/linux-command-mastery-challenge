@@ -2,7 +2,7 @@ _*Open a terminal, print your working directory, then navigate to /var/log using
 back to your home directory using ~, and finally return to /var/log using cd -. List its contents in
 long, human-readable format.*_
 
-1. pwdcd -
+1. pwd
 2. cd /var/log
 3. cd ~
 4. cd -
