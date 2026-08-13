@@ -1,4 +1,4 @@
-# Day 0: Reading and Inspecting files
+# Day 3: Reading and Inspecting files
 
 ## Phase 1 - File Navigation & File System Mastery | Day 3 of 30
 
