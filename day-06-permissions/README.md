@@ -1,6 +1,6 @@
 # Day 6: Reading and setting permissions
 
-## Phase 1 - Permission, Ownership and Security | Day 6 of 30
+## Phase 2 - Permission, Ownership and Security | Day 6 of 30
 
 **Command covered today**
 
