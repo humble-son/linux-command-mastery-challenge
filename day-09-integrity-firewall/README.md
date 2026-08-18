@@ -1,6 +1,6 @@
-# Day 8: Privilege Escalation & Identity
+# Day 9: Integrity, Encryption & Firewalling
 
-## Phase 2 - Permission, Ownership and Security | Day 8 of 30
+## Phase 2 - Permission, Ownership and Security | Day 9 of 30
 
 **Command covered today**
 
@@ -9,7 +9,7 @@ of what each one does and when I would reach for it.
 
 **What I Practiced**
 
-I was able to practice change of priviledge using sudo.
+I was able to practice all the commands in order to strengthen my understanding.
 
 **What surprised me**
 
@@ -19,4 +19,4 @@ I was fascinated by how much of things I can do with just ten commands
 Screenshot of the drill is in the evidence/.
 
 **Related**
-Next day: ../day-09-integrity-firewall/
+Next day: ../day-10-security-audit-checkpoint/
